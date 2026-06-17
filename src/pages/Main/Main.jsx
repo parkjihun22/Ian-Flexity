@@ -607,7 +607,7 @@ const Main = () => {
           <div className={styles.mainImageTextBox1}>
 
           <div className={styles.mainImageTextSub1}>
-            용인 반도체클러스터가 이끄는 새로운 미래가치<br/>
+            용인 반도체클러스터가<br/> 이끄는 새로운 미래가치<br/>
             2,018세대 프리미엄 대단지 라이프<br/>
 
             <span className={styles.greyText1}>
