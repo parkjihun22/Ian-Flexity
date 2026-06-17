@@ -61,46 +61,46 @@ const BusinessGuide1 = () => {
 
 <Helmet>
 
-<title>용인 이안 플렉시티 | 평택 고덕국제신도시 사업안내</title>
+<title>용인 이안 플렉시티 | 사업안내</title>
 
 <meta
-name="description"
-content="용인 이안 플렉시티 사업안내. 평택 고덕국제신도시 생활권, 서정리역 접근성, 84㎡·101㎡ 중심 구성과 1·2단지 총 1,126세대 브랜드 프리미엄을 확인하세요."
+  name="description"
+  content="용인 이안 플렉시티 사업안내. 용인특례시 처인구 남사읍 아곡리 일원에 조성되는 2,018세대 10년 민간임대 아파트의 사업개요, 입지환경, 단지 가치와 미래 프리미엄을 확인하세요."
 />
 
 <meta
-name="keywords"
-content="용인 이안 플렉시티, 고덕국제신도시 수자인풍경채, 평택 고덕 아파트, 평택 분양, 고덕국제신도시 아파트, 서정리역 아파트"
+  name="keywords"
+  content="용인 이안 플렉시티, 용인 이안플렉시티, 용인 민간임대 아파트, 용인 10년 민간임대, 용인 처인구 아파트, 남사읍 아파트, 아곡리 아파트, 용인 반도체클러스터, 용인 이안 플렉시티 사업안내"
 />
 
 <meta name="robots" content="index,follow" />
 
 <link
-rel="canonical"
-href="https://www.ianflexity.co.kr/BusinessGuide/intro"
+  rel="canonical"
+  href="https://www.ianflexity.co.kr/BusinessGuide/intro"
 />
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="용인 이안 플렉시티" />
 
 <meta
-property="og:title"
-content="용인 이안 플렉시티 | 평택 고덕국제신도시 사업안내"
+  property="og:title"
+  content="용인 이안 플렉시티 | 사업안내"
 />
 
 <meta
-property="og:description"
-content="평택 고덕국제신도시 수자인풍경채 사업안내. 생활 인프라, 교통환경, 브랜드 프리미엄을 확인하세요."
+  property="og:description"
+  content="용인 이안 플렉시티 2,018세대 10년 민간임대 아파트의 사업개요와 입지 프리미엄을 확인하세요."
 />
 
 <meta
-property="og:url"
-content="https://www.ianflexity.co.kr/BusinessGuide/intro"
+  property="og:url"
+  content="https://www.ianflexity.co.kr/BusinessGuide/intro"
 />
 
 <meta
-property="og:image"
-content="https://www.ianflexity.co.kr/img/og/business.jpg"
+  property="og:image"
+  content="https://www.ianflexity.co.kr/img/og/business.jpg"
 />
 
 <meta property="og:image:width" content="1200" />
@@ -109,18 +109,18 @@ content="https://www.ianflexity.co.kr/img/og/business.jpg"
 <meta name="twitter:card" content="summary_large_image" />
 
 <meta
-name="twitter:title"
-content="용인 이안 플렉시티 | 평택 고덕국제신도시 사업안내"
+  name="twitter:title"
+  content="용인 이안 플렉시티 | 사업안내"
 />
 
 <meta
-name="twitter:description"
-content="용인 이안 플렉시티 사업안내 및 브랜드 프리미엄 정보를 확인하세요."
+  name="twitter:description"
+  content="용인 이안 플렉시티 사업개요와 2,018세대 10년 민간임대 프리미엄 정보를 확인하세요."
 />
 
 <meta
-name="twitter:image"
-content="https://www.ianflexity.co.kr/img/og/business.jpg"
+  name="twitter:image"
+  content="https://www.ianflexity.co.kr/img/og/business.jpg"
 />
 
 <script type="application/ld+json">
@@ -132,7 +132,7 @@ content="https://www.ianflexity.co.kr/img/og/business.jpg"
 
 "url":"https://www.ianflexity.co.kr/BusinessGuide/intro",
 
-"description":"평택 고덕국제신도시 수자인풍경채 사업개요, 입지환경, 브랜드 프리미엄 정보를 제공합니다.",
+"description":"용인 이안 플렉시티 사업개요, 입지환경, 2,018세대 10년 민간임대 아파트의 프리미엄 정보를 제공합니다.",
 
 "primaryImageOfPage":{
 "@type":"ImageObject",
@@ -172,19 +172,20 @@ content="https://www.ianflexity.co.kr/img/og/business.jpg"
 <MenuBar contents={menuContents} />
 
 <h1 className={styles.screenReaderOnly}>
-용인 이안 플렉시티 - 사업안내
+  용인 이안 플렉시티 - 사업안내
 </h1>
 
 <p className={styles.screenReaderOnly}>
-용인 이안 플렉시티는 평택 고덕국제신도시 생활권에 조성되는 브랜드 아파트입니다.
-고덕국제신도시의 풍부한 생활 인프라와 서정리역 접근성,
-교육·상업시설·공원 환경을 누릴 수 있는 미래가치 중심 단지입니다.
-84㎡와 101㎡ 중심 구성 및 총 1·2단지 1,126세대 규모의 브랜드 주거단지 정보를 제공합니다.
+  용인 이안 플렉시티는 용인특례시 처인구 남사읍 아곡리 일원에 조성되는
+  총 2,018세대 규모의 10년 민간임대 아파트입니다.
+  반도체클러스터 미래가치와 광역 교통망, 생활 인프라,
+  쾌적한 주거환경을 함께 누릴 수 있는 프리미엄 대단지로
+  사업개요와 단지 정보를 제공합니다.
 </p>
 
 <div className={styles.textBox}>
-<div>평택 고덕국제신도시가 품은 새로운 주거 가치</div>
-<div>용인 이안 플렉시티, 브랜드 프리미엄을 완성합니다.</div>
+  <div>반도체클러스터 미래가치를 품은 프리미엄 대단지</div>
+  <div>용인 이안 플렉시티, 새로운 주거 가치를 완성합니다.</div>
 </div>
 
 <img className={styles.img3} src={page1} alt="용인 이안 플렉시티 사업개요 이미지"/>

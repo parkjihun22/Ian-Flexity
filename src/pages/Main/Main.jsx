@@ -607,26 +607,27 @@ const Main = () => {
           <div className={styles.mainImageTextBox1}>
 
           <div className={styles.mainImageTextSub1}>
-              평택 고덕국제신도시의 새로운 주거 가치<br/>
-              고덕국제신도시 생활권 프리미엄<br/>
+            용인 반도체클러스터가 이끄는 새로운 미래가치<br/>
+            2,018세대 프리미엄 대단지 라이프<br/>
 
-              <span className={styles.greyText1}>
-                브랜드 프리미엄과 미래가치를 누리다
-              </span>
-              <br />
+            <span className={styles.greyText1}>
+              10년 민간임대의 새로운 주거 가치를 만나다
+            </span>
+            <br />
+          </div>
+
+          <div className={styles.mainImageTitleBox1}>
+
+            <div className={styles.mainImageText1}>
+              용인 이안 플렉시티
             </div>
 
-            <div className={styles.mainImageTitleBox1}>
+            <div className={styles.mainImageDesc1}>
+              용인특례시 처인구 남사읍 아곡리 일원에 조성되는<br/>
+              총 2,018세대 규모의 10년 민간임대 프리미엄 대단지<br/>
+              반도체클러스터 미래가치를 품은 새로운 라이프를 제안합니다.
+            </div>
 
-              <div className={styles.mainImageText1}>
-                용인 이안 플렉시티
-              </div>
-
-              <div className={styles.mainImageDesc1}>
-                평택 고덕국제신도시 생활권에 들어서는<br/>
-                생활 인프라와 주거 가치를 갖춘 브랜드 단지<br/>
-                고덕국제신도시의 미래 프리미엄을 누리다
-              </div>
 
             </div>
           </div>
@@ -678,7 +679,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                평택의 중심으로 사는
+                용인의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>

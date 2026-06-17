@@ -61,9 +61,9 @@ const Interior3 = () => {
 			<MenuBar contents={menuContents} />
 
 			<div className={styles.textBox}>
-			<div>평택 고덕국제신도시의 새로운 주거 프리미엄</div>
-			<div>용인 이안 플렉시티를 만나보세요.</div>
-			</div>
+        <div>2,018세대 10년 민간임대 프리미엄 라이프</div>
+        <div>용인 이안 플렉시티를 만나보세요.</div>
+      </div>
 
 			{/* 이미지에 애니메이션 효과 추가 */}
 			<img

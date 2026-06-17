@@ -49,12 +49,12 @@ const Emodel = () => {
 
   <meta
     name="description"
-    content="용인 이안 플렉시티 E모델하우스 안내. 평택 고덕국제신도시 수자인풍경채의 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인하세요."
+    content="용인 이안 플렉시티 E모델하우스 안내. 용인특례시 처인구 남사읍 아곡리 일원에 조성되는 2,018세대 10년 민간임대 아파트의 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인하세요."
   />
 
   <meta
     name="keywords"
-    content="용인 이안 플렉시티 E모델하우스, 용인 이안 플렉시티 모델하우스, 고덕국제신도시 수자인풍경채 평면도, 평택 고덕 아파트 모델하우스"
+    content="용인 이안 플렉시티 E모델하우스, 용인 이안 플렉시티 모델하우스, 용인 이안플렉시티 평면도, 용인 민간임대 아파트, 용인 10년 민간임대, 용인 처인구 아파트, 남사읍 아파트, 아곡리 아파트"
   />
 
   <meta name="robots" content="index,follow" />
@@ -69,7 +69,7 @@ const Emodel = () => {
   <meta property="og:title" content="용인 이안 플렉시티 | E모델하우스" />
   <meta
     property="og:description"
-    content="고덕국제신도시 수자인풍경채 E모델하우스에서 세대 평면과 공간 구성을 온라인으로 확인하세요."
+    content="용인 이안 플렉시티 E모델하우스에서 세대 평면과 공간 구성을 온라인으로 확인하세요."
   />
   <meta property="og:url" content="https://www.ianflexity.co.kr/FloorPlan/Emodel" />
   <meta property="og:image" content="https://www.ianflexity.co.kr/img/og/emodel.jpg" />
@@ -121,13 +121,14 @@ const Emodel = () => {
 
 <p className={styles.screenReaderOnly}>
   용인 이안 플렉시티 E모델하우스 페이지입니다.
-  평택 고덕국제신도시 수자인풍경채의 세대 평면, 실내 구조,
+  용인특례시 처인구 남사읍 아곡리 일원에 조성되는
+  2,018세대 10년 민간임대 아파트의 세대 평면, 실내 구조,
   공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.
 </p>
 
 <div className={styles.textBox}>
-  <div>평택 고덕국제신도시의 주거 공간을 온라인으로 확인</div>
-  <div>용인 이안 플렉시티 E모델하우스를 살펴보세요.</div>
+  <div>용인 이안 플렉시티 주거 공간을 온라인으로 확인</div>
+  <div>2,018세대 10년 민간임대 E모델하우스를 살펴보세요.</div>
 </div>
 
 
